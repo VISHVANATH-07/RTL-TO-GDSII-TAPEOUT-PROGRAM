@@ -8,7 +8,7 @@ Welcome to my journey through the RTL-TO-GDSII-TAPEOUT-PROGRAM ! Below are links
 
 | Day  | Topics Covered | Status |
 |---|---|---|
-| **Day 0** | [**Tools Installation**](Day0/README.md) | **✅ Done** |
+| **Day 0** | [**Tools Installation**](https://github.com/VISHVANATH-07/RTL-TO-GDSII-TAPEOUT-PROGRAM/blob/78a647b12a5ee87dbb3351c6b48ccd2275e7510f/Day%200/README.md)| **✅ Done** |
 | **Day 1** | [**Introduction to Verilog RTL design and Synthesis**](Day1/README.md) | **✅ Done** |
 | **Day 2** | [**Timing libs, hierarchical vs flat synthesis and efficient flop coding styles**](Day2/README.md) | **✅ Done** |
 | **Day 3** | [**Combinational and sequential optimizations**](Day3/README.md) | **✅ Done** |
